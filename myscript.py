@@ -13,6 +13,5 @@ def test_other():
     assert False
 
 
-
 if __name__ == '__main__':
     sayhi('APC524ites!')
